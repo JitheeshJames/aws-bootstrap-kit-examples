@@ -1,6 +1,6 @@
 {
   "app": "npx ts-node bin/sdlc-organization.ts",
-  "context"{
+  "context": {
     "@aws-cdk/core:newStyleStackSynthesis": true,
     "github_alias": "JitheeshJames",
     "github_repo_name": "aws-bootstrap-kit-examples",
